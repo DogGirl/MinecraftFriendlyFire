@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Specification-Title: examplemod
 Specification-Vendor: YourNameHere, OtherNameHere
 Specification-Version: 1
-Implementation-Title: Friendly Fire
+Implementation-Title: MinecraftFriendlyFire
 Implementation-Version: 1.0.0
 Implementation-Vendor: YourNameHere, OtherNameHere
-Implementation-Timestamp: 2025-07-07T08:47:52+0200
+Implementation-Timestamp: 2025-07-07T10:43:02+0200
 
